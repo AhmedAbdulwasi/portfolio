@@ -6,6 +6,7 @@ import About from './pages/About'
 import Experience from './pages/Experience'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
+import BackUp from './components/BackUp'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
           <Experience />
           <Projects />
           <Contact />
+          <BackUp />
         </div>
     </div>
     </>

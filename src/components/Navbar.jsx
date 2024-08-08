@@ -9,7 +9,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-gray-100 border-gray-200">
+    <nav className="bg-gray-100 border-gray-200" id="navbar-page">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between w-screen mx-auto p-4">
         <a
           href="https://www.torontomu.ca/cs/"
