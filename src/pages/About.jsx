@@ -2,14 +2,14 @@ import React, {useState} from "react";
 import "../index.css";
 
 function About() {
-  const [count,setCount] = useState(2020)
+  const [count,setCount] = useState(2020);
   const handleClick = () => {
     if (count < 2027) {
-      setCount(count+1)
+      setCount(count+1);
     }
   }
   const handleReset = () => {
-    setCount(2020)
+    setCount(2020);
   }
 
   return (
