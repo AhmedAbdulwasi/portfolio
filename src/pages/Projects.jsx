@@ -11,6 +11,14 @@ function Projects() {
         <h1 className="text-2xl md:text-3xl font-semibold py-2 md:py-3 underline">
           Personal Projects
         </h1>
+
+        <a href="https://github.com/AhmedAbdulwasi/Movie-Reviewer" target="_blank" className="block shadow-md mb-6 max-w-sm p-6 bg-white border border-gray-400 rounded-md mx-auto shadow hover:bg-gray-100">
+        <time className="mb-1 text-sm font-normal leading-none text-gray-700">
+        Apr. 2024 – Aug. 2024
+              </time>
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Movie Reviewer Application</h5>
+          <p className="font-normal text-gray-700">A Movie Reviewer Application that allows you to register a user, add a review, check a review/user, list them, save, delete and sort! This project was entirely done using <strong>Java</strong> and uses the 4 pillars of OOP (Inheritance, Polymorphism, Encapsulation and Abstraction). Do you have a movie that you would like to add a review for? Submit a pull request and share the reviews.txt file!</p>
+        </a>
         
         <a href="https://github.com/AhmedAbdulwasi/ToDoList" target="_blank" className="block shadow-md mb-6 max-w-sm p-6 bg-white border border-gray-400 rounded-md mx-auto shadow hover:bg-gray-100">
         <time className="mb-1 text-sm font-normal leading-none text-gray-700">
@@ -18,14 +26,6 @@ function Projects() {
               </time>
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">To-Do List Website</h5>
           <p className="font-normal text-gray-700">A simple full-stack To-Do List Website that allows you to create, view, delete, or update tasks easily. You are also free to use the old version of the ToDoList in the OLD folder. This program uses <strong>Flask</strong>, <strong>SQLite</strong>, <strong>React.js</strong>, <strong>HTML </strong>and<strong> CSS</strong>.</p>
-        </a>
-
-        <a href="https://github.com/AhmedAbdulwasi/Movie-Reviewer" target="_blank" className="block shadow-md mb-6 max-w-sm p-6 bg-white border border-gray-400 rounded-md mx-auto shadow hover:bg-gray-100">
-        <time className="mb-1 text-sm font-normal leading-none text-gray-700">
-        Apr. 2024 – May 2024
-              </time>
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Movie Reviewer Application</h5>
-          <p className="font-normal text-gray-700">A Movie Reviewer Application that allows you to register a user, add a review, check a review/user, list them, save, and sort! This project was entirely done using <strong>Java</strong>. Do you have a movie that you would like to add a review for? Submit a pull request and share the reviews.txt file!</p>
         </a>
         
         <a href="https://github.com/AhmedAbdulwasi/EatGame" target="_blank" className="block shadow-md mb-6 max-w-sm p-6 bg-white border border-gray-400 rounded-md mx-auto shadow hover:bg-gray-100">
