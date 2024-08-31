@@ -58,8 +58,7 @@ function About() {
           more that highly interests me. Other topics/areas that interest me are
           Machine learning, artificial Intelligence, quantum computing, data
           analysis and more. Outside of that, I like to play video games, work
-          out, play chess, Soccer/Football, and watch movies and TV
-          shows/series.
+          out, play chess, Soccer/Football, and LOVE LOVE <strong>LOVE</strong> binge-watching movies/tv shows.
         </p>
         <p className="text-base text-gray-700 md:text-lg font-regular py-2 md:py-3">Planning to graduate in <strong>{count}</strong></p>
         <button onClick={handleClick} className="text-black  bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 font-medium rounded-lg px-5 py-2.5 me-2 mb-2">Click To Find Out</button>
