@@ -56,8 +56,8 @@ function About() {
           leaning towards <strong>software development/engineering</strong> as
           it uses programming languages, algorithms, method approaches and much
           more that highly interests me. Other topics/areas that interest me are
-          Machine learning, artificial Intelligence, quantum computing, data
-          analysis and more. Outside of that, I like to play video games, work
+          machine learning, artificial Intelligence, quantum computing, and data
+          analysis. Outside of that, I like to play video games, work
           out, play chess, Soccer/Football, and LOVE LOVE <strong>LOVE</strong> binge-watching movies/tv shows.
         </p>
         <p className="text-base text-gray-700 md:text-lg font-regular py-2 md:py-3">Planning to graduate in <strong>{count}</strong></p>
