@@ -27,9 +27,9 @@ function Experience() {
                 find ways to visualize raw data using multiple technologies such
                 as Excel, Tableau, MySQL and much more. I worked closely with
                 Senior Data Analysts to revamp dashboards, find ways to optimize
-                data, research, create data sources and create multiple system
+                data, research, create data sources and create multiple systems
                 analytical dashboards for senior management. Click on the button
-                to learn more about Magnet.
+                to learn more about Magnet. <br></br> P.S. THANK YOU RON FOR BEING THE BEST MANAGER I EVER HAD.
               </p>
               <p>
                 <a href="https://poweredbymagnet.ca/" target="_blank">
