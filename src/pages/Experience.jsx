@@ -29,7 +29,7 @@ function Experience() {
                 Senior Data Analysts to revamp dashboards, find ways to optimize
                 data, research, create data sources and create multiple systems
                 analytical dashboards for senior management. Click on the button
-                to learn more about Magnet. <br></br> P.S. THANK YOU RON FOR BEING THE BEST MANAGER I EVER HAD.
+                to learn more about Magnet.
               </p>
               <p>
                 <a href="https://poweredbymagnet.ca/" target="_blank">
