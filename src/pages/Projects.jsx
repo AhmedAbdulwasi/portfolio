@@ -43,7 +43,7 @@ function Projects() {
         <div className="bg-gray-900 text-white p-4 rounded mt-6 max-w-2xl mx-auto overflow-auto border-gray-400 rounded-md border-4 shadow-md">
             <pre className="text-left whitespace-pre-wrap">
               <code>
-                {`console.log('Hoping to continue learning Javascript.');`}
+                {`console.log('Hoping to continue learning JavasScript.');`}
               </code>
             </pre>
         </div>
