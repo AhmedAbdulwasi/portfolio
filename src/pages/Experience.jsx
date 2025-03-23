@@ -17,7 +17,7 @@ function Experience() {
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white"></div>
               <time className="mb-1 text-sm font-normal leading-none text-gray-700">
-                May 2022 - Jun 2022
+                May 2025 - Jun 2025
               </time>
               <h3 className="text-lg font-semibold text-gray-900">
                 Co-op Student At Sun-Life
