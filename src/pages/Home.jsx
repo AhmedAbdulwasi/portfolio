@@ -16,7 +16,7 @@ function Home() {
           </h1>
 
           <p className="text-base text-gray-700 md:text-lg font-regular py-2 md:py-3">
-            Computer Science <s>first-year</s> second-year student at Toronto
+            Computer Science <s>first-year</s> <s>second-year</s> third-year student at Toronto
             Metropolitan University <br />
             <strong>Programming and Web Development Languages: </strong>Python,
             Java, SQL, Javascript, HTML and CSS
