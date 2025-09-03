@@ -13,11 +13,34 @@ function Experience() {
           </h1>
   
           <ol className="relative border-s border-gray-200">
-
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white"></div>
               <time className="mb-1 text-sm font-normal leading-none text-gray-700">
-                May 2025 - Jun 2025
+                Sep 2025 - Present
+              </time>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Developer Co-op Student At RBC
+              </h3>
+              <p className="mb-4 text-base font-normal text-gray-700">
+                I'm a Software Developer at RBC, working with the homeX Team. Click on the button to learn more about RBC.
+              </p>
+              <p>
+                <a href="https://jobs.rbc.com/ca/en/technology-operations" target="_blank">
+                  <button
+                    type="button"
+                    className="text-black  bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 font-medium rounded-lg px-5 py-2.5 me-2 mb-2"
+                  >
+                    Learn More
+                  </button>
+                </a>
+              </p>
+            </li>
+
+              
+            <li className="mb-10 ms-4">
+              <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white"></div>
+              <time className="mb-1 text-sm font-normal leading-none text-gray-700">
+                May 2025 - Aug 2025
               </time>
               <h3 className="text-lg font-semibold text-gray-900">
                 Co-op Student At Sun-Life
