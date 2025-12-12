@@ -19,7 +19,7 @@ function Experience() {
                 Sep 2025 - Present
               </time>
               <h3 className="text-lg font-semibold text-gray-900">
-                Developer Co-op Student At RBC
+                Developer Co-op At RBC
               </h3>
               <p className="mb-4 text-base font-normal text-gray-700">
                 I'm a Software Developer at RBC, working with the homeX Team. Click on the button to learn more about RBC.
@@ -43,7 +43,7 @@ function Experience() {
                 May 2025 - Aug 2025
               </time>
               <h3 className="text-lg font-semibold text-gray-900">
-                Co-op Student At Sun-Life
+                Software Engineer Co-op At Sun Life
               </h3>
               <p className="mb-4 text-base font-normal text-gray-700">
                 I was a Software Engineer at Sun Life, working with the Corporate IT Team (specifically with the Anti-Money Laundering). Sun Life was undergoing a transition from an old vendor's AML platform to its own AML platform called NetReveal. I helped with the transition by providing support in debugging and fixing a temporary AML platform for more than 100+ Suspicious Transaction Reports. Additionally, I dived deeper into Linux, creating two scripts that monitor NetReveal Linux Servers, focusing on permissions and health checks. Click on the button
@@ -51,36 +51,6 @@ function Experience() {
               </p>
               <p>
                 <a href="https://www.sunlife.ca/en/" target="_blank">
-                  <button
-                    type="button"
-                    className="text-black  bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 font-medium rounded-lg px-5 py-2.5 me-2 mb-2"
-                  >
-                    Learn More
-                  </button>
-                </a>
-              </p>
-            </li>
-              
-            <li className="mb-10 ms-4">
-              <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white"></div>
-              <time className="mb-1 text-sm font-normal leading-none text-gray-700">
-                May 2023 - Aug 2023
-              </time>
-              <h3 className="text-lg font-semibold text-gray-900">
-                Analytics Assistant
-              </h3>
-              <p className="mb-4 text-base font-normal text-gray-700">
-                I was an Analytics Assistant at Magnet working with the Research
-                and Evaluation Team. Our purpose/goal is to research LMIs and
-                find ways to visualize raw data using multiple technologies such
-                as Excel, Tableau, MySQL and much more. I worked closely with
-                Senior Data Analysts to revamp dashboards, find ways to optimize
-                data, research, create data sources and create multiple systems
-                analytical dashboards for senior management. Click on the button
-                to learn more about Magnet.
-              </p>
-              <p>
-                <a href="https://poweredbymagnet.ca/" target="_blank">
                   <button
                     type="button"
                     className="text-black  bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 font-medium rounded-lg px-5 py-2.5 me-2 mb-2"
