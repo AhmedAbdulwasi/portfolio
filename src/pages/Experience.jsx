@@ -46,7 +46,7 @@ function Experience() {
                 Software Engineer Co-op At Sun Life
               </h3>
               <p className="mb-4 text-base font-normal text-gray-700">
-                I was a Software Engineer at Sun Life, working with the Corporate IT Team (specifically with the Anti-Money Laundering). Sun Life was undergoing a transition from an old vendor's AML platform to its own AML platform called NetReveal. I helped with the transition by providing support in debugging and fixing a temporary AML platform for more than 100+ Suspicious Transaction Reports. Additionally, I dived deeper into Linux, creating two scripts that monitor NetReveal Linux Servers, focusing on permissions and health checks. Click on the button
+                I was a Software Engineer at Sun Life, working with the Corporate IT Team (specifically with the Anti-Money Laundering team). Sun Life was undergoing a transition from an old vendor's AML platform to its own AML platform called NetReveal. I helped with the transition by providing support in debugging and fixing a temporary AML platform for more than 100+ Suspicious Transaction Reports. Additionally, I dived deeper into Linux, creating two scripts that monitor NetReveal Linux Servers, focusing on permissions and health checks. Click on the button
                 to learn more about Sun Life.
               </p>
               <p>
