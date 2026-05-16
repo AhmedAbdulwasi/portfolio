@@ -16,13 +16,13 @@ function Experience() {
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white"></div>
               <time className="mb-1 text-sm font-normal leading-none text-gray-700">
-                Sep 2025 - Present
+                Sep 2025 - Apr 2026
               </time>
               <h3 className="text-lg font-semibold text-gray-900">
                 Developer Co-op At RBC
               </h3>
               <p className="mb-4 text-base font-normal text-gray-700">
-                I'm a Software Developer at RBC, working with the homeX Team. Click on the button to learn more about RBC.
+                I was a Software Developer at RBC, working with the homeX Team. Click on the button to learn more about RBC.
               </p>
               <p>
                 <a href="https://jobs.rbc.com/ca/en/technology-operations" target="_blank">
