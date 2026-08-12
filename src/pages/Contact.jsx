@@ -48,7 +48,7 @@ function Contact() {
       </div>
       <footer className="m-4 flex justify-center py-4">
         <div className="p-4">
-          <p className="font-medium">© 2024 Ahmed Bein. All Rights Reserved.</p>
+          <p className="font-medium">All Rights Reserved.</p>
         </div>
       </footer>
     </>
