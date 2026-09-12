@@ -4,7 +4,7 @@ import "../index.css";
 function About() {
   const [count,setCount] = useState(2020);
   const handleClick = () => {
-    if (count < 2027) {
+    if (count < 2028) {
       setCount(count+1);
     }
   }
@@ -43,18 +43,18 @@ function About() {
           <br />
           Additionally, I enrolled myself in a Computer Science course called
           "Computer-Enabled Problem Solving" and I loved it with all my heart. I
-          was already interested in Computer Science but I never realized that
+          was already interested in Computer Science, but I never realized that
           it was a <strong>passion</strong> until I began to spend a large
           amount of my free time learning more about programming, algorithms,
           software development life cycle, problem-solving and much more through
           extracurricular activities, educational videos/courses, and more. So I
-          transferred and ever since, I never regretted that moment.
+          transferred, and ever since, I have never regretted that moment.
           <br />
           <br />
           I'm actually interested in a lot of technical positions that make it
-          difficult to choose which path I should focus on but I'm heavily
+          difficult to choose which path I should focus on, but I'm heavily
           leaning towards <strong>software development/engineering</strong> as
-          it uses programming languages, algorithms, method approaches and much
+          it uses programming languages, algorithms, methods and much
           more that highly interests me. Other topics/areas that interest me are
           machine learning, artificial Intelligence, quantum computing, and data
           analysis. Outside of that, I like to play video games, work
